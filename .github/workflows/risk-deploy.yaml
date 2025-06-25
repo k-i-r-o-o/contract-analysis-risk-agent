@@ -6,7 +6,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  ECR_REPOSITORY: contract-analysis-risk-agent
+  ECR_REPOSITORY: risk-agent-lambda
   LAMBDA_FUNCTION_NAME: RiskAgentHandler
 
 jobs:
